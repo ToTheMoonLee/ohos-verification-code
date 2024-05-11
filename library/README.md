@@ -6,7 +6,7 @@ verification-code 是一个验证码输入的组件
 项目基于harmonyOS api11 开发，由于在官方没有找到相关的输入验证码的组件，所以自己开发了一个，方便大家使用。
 效果如下：
 
-![verification_code.gif](images%2Fverification_code.gif)
+![verification_code.gif](../images%2Fverification_code.gif)
 
 ## 仓库地址
 

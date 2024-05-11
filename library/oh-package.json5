@@ -1,9 +1,19 @@
 {
-  "name": "library",
+  "name": "verification_code",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "鸿蒙版验证码输入控件",
+  "keywords": [
+    "验证码",
+    "verification",
+    "verification code",
+    "输入框",
+    "verify",
+    "verify code",
+    "number input"
+  ],
   "main": "Index.ets",
-  "author": "",
+  "author": "MooNight",
   "license": "Apache-2.0",
+  "repository": "https://github.com/ToTheMoonLee/ohos-verification-code",
   "dependencies": {}
 }
