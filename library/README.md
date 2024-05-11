@@ -10,7 +10,13 @@ verification-code 是一个验证码输入的组件
 
 ## 仓库地址
 
-如果觉得对你的开发有帮助，欢迎star。当然如果对本项目有任何问题，feel free to make issues。
+`地址：[verification_code](https://github.com/ToTheMoonLee/ohos-verification-code)，如果觉得对您的开发有帮助，欢迎star。当然如果对本项目有任何问题，feel free to make issues。
+`
+## 下载安装
+
+```shell
+ohpm install verification_code
+```
 
 ## 使用方式
 
